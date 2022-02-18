@@ -9,7 +9,7 @@
 //     }
 //     else {
 //       this.className = "good";
-//     }s
+//     }
 //   });
 
 // document.querySelector('input[type="text"]')
@@ -79,9 +79,12 @@
 
 // radios.forEach(function(radio) {
 //   radio.addEventListener('input', function() {
-//     //alert(`${this.id} was selected`);
 //   });
 // });
+  
 
-// // 1. Attach changed to checkbox
-// // 2. If value is true output "You are employed" if false "You are unemployed"
+let h1 = document.querySelector ('h1');
+
+document.querySelector('#text').addEventListener('input',function) {
+    
+}
