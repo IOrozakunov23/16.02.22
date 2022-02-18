@@ -85,6 +85,6 @@
 
 let h1 = document.querySelector ('h1');
 
-document.querySelector('#text').addEventListener('input',function){
-
+document.querySelector('#text').addEventListener('input',function) {
+    
 }
